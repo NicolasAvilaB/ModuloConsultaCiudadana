@@ -1,0 +1,292 @@
+[11-Dec-2019 19:13:47 UTC] PHP Notice:  Array to string conversion in /home/cre37351/public_html/eleccion/registro/registro.php on line 117
+[11-Dec-2019 19:16:33 UTC] PHP Notice:  Array to string conversion in /home/cre37351/public_html/eleccion/registro/registro.php on line 118
+[11-Dec-2019 19:30:53 UTC] PHP Fatal error:  Cannot redeclare ejecutarSQLCommand() (previously declared in /home/cre37351/public_html/eleccion/registro/functions.php:4) in /home/cre37351/public_html/eleccion/registro/functions.php on line 22
+[12-Dec-2019 12:59:28 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 12:59:28 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 12:59:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 12:59:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 12:59:42 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 12:59:42 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 12:59:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 12:59:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:06:04 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:06:04 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:06:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:06:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:15:09 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:15:09 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:15:09 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:15:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:19:58 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:19:58 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:19:58 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:19:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:20:15 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:20:15 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:20:15 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:20:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:20:52 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:20:52 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:20:52 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:20:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:26:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 67
+[12-Dec-2019 13:26:58 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:26:58 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:26:58 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:26:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:27:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 67
+[12-Dec-2019 13:27:19 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:27:19 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:27:19 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:27:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:27:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 67
+[12-Dec-2019 13:27:24 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:27:24 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:27:24 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:27:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:27:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 67
+[12-Dec-2019 13:27:34 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:27:34 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:27:34 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:27:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:27:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 67
+[12-Dec-2019 13:27:50 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:27:50 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:27:50 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:27:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:40:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 132
+[12-Dec-2019 13:40:34 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 13:40:34 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 13:40:34 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 13:40:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 13:40:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 132
+[12-Dec-2019 13:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 132
+[12-Dec-2019 13:45:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 132
+[12-Dec-2019 14:11:29 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 14:11:29 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 14:11:29 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 14:11:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 14:14:18 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 14:14:18 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 14:14:18 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 14:14:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 14:28:29 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 14:28:29 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 14:28:29 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 14:28:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 14:29:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[12-Dec-2019 14:53:04 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 14:53:04 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 14:53:04 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 14:53:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 16:10:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[12-Dec-2019 16:10:57 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 16:10:57 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 16:10:57 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 16:10:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 19:41:16 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 19:41:16 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 19:41:16 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 19:41:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[12-Dec-2019 19:41:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[12-Dec-2019 19:50:24 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[12-Dec-2019 19:50:24 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[12-Dec-2019 19:50:24 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[12-Dec-2019 19:50:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[13-Dec-2019 04:31:02 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[13-Dec-2019 04:31:03 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[13-Dec-2019 04:31:03 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[13-Dec-2019 04:31:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[13-Dec-2019 04:31:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[13-Dec-2019 23:46:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 00:22:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 52
+[15-Dec-2019 00:34:49 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 00:34:49 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 00:34:49 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 00:34:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 00:59:54 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 00:59:54 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 00:59:54 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 00:59:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 04:29:05 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 04:29:05 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 04:29:05 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 04:29:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 04:30:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:30:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:34:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:35:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:37:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:39:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:40:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:42:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:42:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:44:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 04:45:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 12:39:01 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 12:39:01 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 12:39:01 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 12:39:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 13:01:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 13:44:35 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 13:44:35 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 13:44:35 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 13:44:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 13:45:26 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 13:45:26 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 13:45:26 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 13:45:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 14:01:58 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 14:01:58 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 14:01:58 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 14:01:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 14:39:15 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 14:39:15 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 14:39:15 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 14:39:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 14:45:20 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 14:45:20 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 14:45:20 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 14:45:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 14:51:44 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 14:51:44 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 14:51:44 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 14:51:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 14:51:59 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 14:51:59 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 14:51:59 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 14:51:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 14:54:49 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 14:54:49 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 14:54:49 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 14:54:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 15:06:16 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 15:06:16 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 15:06:16 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 15:06:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 16:05:08 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 16:05:08 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 16:05:08 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 16:05:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 16:06:28 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 16:06:28 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 16:06:28 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 16:06:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 16:07:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 16:36:34 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 16:36:34 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 16:36:34 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 16:36:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 16:37:19 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 16:37:19 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 16:37:19 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 16:37:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:00:35 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:00:35 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:00:35 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:00:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:02:23 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:02:23 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:02:23 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:02:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:03:47 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:03:47 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:03:47 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:03:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:14:08 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:14:08 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:14:08 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:14:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:33:34 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:33:34 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:33:34 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:33:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:40:32 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:40:32 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:40:32 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:40:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:43:07 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:43:07 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:43:07 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:43:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:43:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 17:44:05 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:44:05 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:44:05 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:44:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 17:45:39 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 17:45:39 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 17:45:39 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 17:45:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 18:11:29 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 18:11:29 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 18:11:29 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 18:11:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 18:24:08 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 18:24:08 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 18:24:08 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 18:24:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 18:29:32 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 18:29:32 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 18:29:32 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 18:29:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 18:43:59 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 18:43:59 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 18:43:59 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 18:43:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 18:51:51 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 18:51:51 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 18:51:51 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 18:51:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 19:38:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 19:42:11 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 19:42:11 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 19:42:11 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 19:42:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 19:42:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:04:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:10:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:13:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:18:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:19:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:20:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:22:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:48:18 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 20:48:18 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 20:48:18 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 20:48:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 20:51:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 20:56:45 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 20:56:45 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 20:56:45 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 20:56:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 21:05:03 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 21:05:03 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 21:05:03 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 21:05:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 21:23:43 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 21:23:43 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 21:23:43 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 21:23:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 21:26:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
+[15-Dec-2019 21:30:48 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 21:30:48 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 21:30:48 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 21:30:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[15-Dec-2019 21:44:16 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[15-Dec-2019 21:44:16 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[15-Dec-2019 21:44:16 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[15-Dec-2019 21:44:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[16-Dec-2019 00:51:01 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[16-Dec-2019 00:51:02 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[16-Dec-2019 00:51:02 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[16-Dec-2019 00:51:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[16-Dec-2019 17:24:56 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[16-Dec-2019 17:24:56 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[16-Dec-2019 17:24:56 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[16-Dec-2019 17:24:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[31-Mar-2020 00:48:16 UTC] PHP Notice:  Undefined index: usuarios in /home/cre37351/public_html/eleccion/registro/registro.php on line 40
+[31-Mar-2020 00:48:16 UTC] PHP Notice:  Undefined index: claves in /home/cre37351/public_html/eleccion/registro/registro.php on line 41
+[31-Mar-2020 00:48:16 UTC] PHP Notice:  Undefined index: i in /home/cre37351/public_html/eleccion/registro/registro.php on line 42
+[31-Mar-2020 00:48:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/eleccion/registro/registro.php on line 44
+[13-Dec-2021 14:41:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cre37351/public_html/eleccion/registro/registro.php on line 131
