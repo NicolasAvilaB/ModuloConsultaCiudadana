@@ -4,7 +4,23 @@ Permite el registro de usuario en voto comunal, consulta de datos y exportación
 
 Sistema web en https://systemchile.com/eleccion/login.php
 
+Sección Admin:
+
+- Usuario: Rodrigo
+- Clave: munirodrigoperalillo2019
+
+Sección Operador:
+
+- Usuario: Poblacion
+- Clave: muni2019poblacion
+
 ## Secciones y Funcionalidades Principales.
+
+- Consulta AJAX en Datos de Usuario
+- Contador de Votos Automatico
+- Gestión de Registros (Admin), permite saber quienes votaron
+- Responsive (uso desde cualquier dispositivo)
+- Exportar en Excel Datos Filtrados en Admin
 
 ## Detalle Base de Datos
 
