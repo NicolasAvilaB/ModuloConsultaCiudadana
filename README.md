@@ -16,7 +16,7 @@ Sección Operador:
 
 ## Secciones y Funcionalidades Principales.
 
-- Consulta AJAX en Datos de Usuario
+- Consulta AJAX en Datos de Usuario registrados
 - Contador de Votos Automatico
 - Gestión de Registros (Admin), permite saber quienes votaron
 - Responsive (uso desde cualquier dispositivo)
