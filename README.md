@@ -1,3 +1,3 @@
 # ModuloConsultaCiudadana
 
-Sistema web implementado en https://systemchile.com/eleccion/login.php
+Sistema web en https://systemchile.com/eleccion/login.php
