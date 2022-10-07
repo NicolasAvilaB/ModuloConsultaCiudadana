@@ -8,7 +8,7 @@ Sistema web en https://systemchile.com/eleccion/login.php
 
 ## Detalle Base de Datos
 
-MySQL - nicolas_socifyd
+MySQL - cre37351_registroeleccion
 
-Usuario: nicolas_usersoc
-Clave: usersocifyd
+Usuario: cre37351_root
+Clave: lacomunagana
