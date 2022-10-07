@@ -10,5 +10,5 @@ Sistema web en https://systemchile.com/eleccion/login.php
 
 MySQL - cre37351_registroeleccion
 
-Usuario: cre37351_root
-Clave: lacomunagana
+- Usuario: cre37351_root
+- Clave: lacomunagana
